@@ -1,0 +1,7 @@
+{
+  "name": "Personal AI Portfolio",
+  "description": "A modern, interactive portfolio featuring an AI persona assistant to showcase professional work and skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
