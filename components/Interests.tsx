@@ -8,16 +8,10 @@ const interests: Interest[] = [
     description: 'Exploring the unknown. From the bustling streets of Tokyo to the quiet fjords of Norway.',
     icon: 'M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z',
     imageUrls: [
-<<<<<<< HEAD
-      'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=400&q=80',
-      'https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=400&q=80',
-      'https://images.unsplash.com/photo-1513407030348-c983a97b98d8?auto=format&fit=crop&w=400&q=80'
-=======
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/china.jpg',
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/poland.jpg',
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/newzeland.jpg',
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/my.jpg'
->>>>>>> 6094078 (first commit)
     ]
   },
   {
@@ -31,16 +25,10 @@ const interests: Interest[] = [
     description: 'Climbing and swimming. Pushing physical limits helps maintain mental clarity.',
     icon: 'M13 10V3L4 14h7v7l9-11h-7z',
     imageUrls: [
-<<<<<<< HEAD
-      'https://images.unsplash.com/photo-1522163182402-834f871fd851?auto=format&fit=crop&w=400&q=80',
-      'https://images.unsplash.com/photo-1530549387631-6c12946b99d3?auto=format&fit=crop&w=400&q=80',
-      'https://images.unsplash.com/photo-1601284748455-311abaf48d18?auto=format&fit=crop&w=400&q=80'
-=======
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/genting.jpeg',
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/snowMoutain.jpg',
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/ranjani.jpeg',
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/kk.jpeg'
->>>>>>> 6094078 (first commit)
     ]
   },
   {
@@ -48,14 +36,8 @@ const interests: Interest[] = [
     description: 'Crafting with my hands. Woodworking and leather crafting allow me to build physical things.',
     icon: 'M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z',
     imageUrls: [
-<<<<<<< HEAD
-      'https://images.unsplash.com/photo-1530124560677-bdaea02c9a5e?auto=format&fit=crop&w=400&q=80',
-      'https://images.unsplash.com/photo-1590674899484-13da0d1b58f5?auto=format&fit=crop&w=400&q=80',
-      'https://images.unsplash.com/photo-1621360841013-c7683c659ec6?auto=format&fit=crop&w=400&q=80'
-=======
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/cup.jpg',
       'https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/bear.jpeg'
->>>>>>> 6094078 (first commit)
     ]
   }
 ];

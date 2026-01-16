@@ -7,11 +7,7 @@ const Hero: React.FC = () => {
       <div className="animate-float mb-8">
         <div className="w-32 h-32 md:w-40 md:h-40 rounded-full p-1 bg-gradient-to-tr from-blue-500 to-purple-500">
           <img 
-<<<<<<< HEAD
-            src="../img/profile.jpg" 
-=======
             src="https://portfolio-ck.s3.ap-southeast-1.amazonaws.com/profile.jpg"
->>>>>>> 6094078 (first commit)
             alt="Chang Kiat" 
             className="w-full h-full rounded-full object-cover border-4 border-slate-950"
           />
