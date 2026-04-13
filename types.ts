@@ -6,6 +6,7 @@ export interface Project {
   tags: string[];
   imageUrl: string;
   link?: string;
+  githubUrl?:string;
 }
 
 export interface Skill {
